@@ -1,0 +1,52 @@
+FIPS	STATE	STCTY	USDA_FPR
+01	Alabama	41	Southeast
+02	Alaska	81	NA
+04	Arizona	61	Mountain
+05	Arkansas	42	Delta
+06	California	71	Pacific
+08	Colorado	62	Mountain
+09	Connecticut	1	Northeast
+10	Delaware	11	Northeast
+11	District of Columbia	98	Northeast
+12	Florida	43	Southeast
+13	Georgia	44	Southeast
+15	Hawaii	82	NA
+16	Idaho	63	Mountain
+17	Illinois	21	Corn Belt
+18	Indiana	22	Corn Belt
+19	Iowa	31	Corn Belt
+20	Kansas	32	Northern Plains
+21	Kentucky	51	Appalachia
+22	Louisiana	45	Delta
+23	Maine	2	Northeast
+24	Maryland	52	Northeast
+25	Massachusetts	3	Northeast
+26	Michigan	23	Lake
+27	Minnesota	33	Lake
+28	Mississippi	46	Delta
+29	Missouri	34	Corn Belt
+30	Montana	64	Mountain
+31	Nebraska	35	Northern Plains
+32	Nevada	65	Mountain
+33	New Hampshire	4	Northeast
+34	New Jersey	12	Northeast
+35	New Mexico	66	Mountain
+36	New York	13	Northeast
+37	North Carolina	47	Appalachia
+38	North Dakota	36	Northern Plains
+39	Ohio	24	Corn Belt
+40	Oklahoma	53	Southern Plains
+41	Oregon	72	Pacific
+42	Pennsylvania	14	Northeast
+44	Rhode Island	5	Northeast
+45	South Carolina	48	Southeast
+46	South Dakota	37	Northern Plains
+47	Tennessee	54	Appalachia
+48	Texas	49	Southern Plains
+49	Utah	67	Mountain
+50	Vermont	6	Northeast
+51	Virginia	40	Appalachia
+53	Washington	73	Pacific
+54	West Virginia	56	Appalachia
+55	Wisconsin	25	Lake
+56	Wyoming	68	Mountain

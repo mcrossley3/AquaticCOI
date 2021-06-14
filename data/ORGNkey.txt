@@ -1,0 +1,58 @@
+Order	ORGN
+Protura	Protura
+Collembola	Collembola
+Diplura	Diplura
+Microcoryphia	Microcoryphia
+Thysanura	Thysanura
+Ephemeroptera	Ephemeroptera
+Odonata	Odonata
+Orthoptera	Orthoptera
+Phasmatodea	Phasmatodea
+Grylloblattodea	Grylloblattodea
+Mantophasmatodea	Mantophasmatodea
+Dermaptera	Dermaptera
+Plecoptera	Plecoptera
+Embiidina	Embiidina
+Zoraptera	Zoraptera
+Isoptera	Isoptera
+Mantodea	Mantodea
+Blattodea	Blattodea
+Hemiptera	Auchenorrhyncha
+Hemiptera	unclassified Hemiptera
+Hemiptera	Sternorrhyncha
+Hemiptera	Prosorrhyncha
+Heteroptera	Heteroptera
+Thysanoptera	Thysanoptera
+Psocoptera	Psocoptera
+Phthiraptera	Phthiraptera
+Coleoptera	unclassified Coleoptera
+Coleoptera	Myxophaga
+Coleoptera	Archostemata
+Coleoptera	Adephaga
+Neuroptera	Neuroptera
+Hymenoptera	Xyeloidea
+Hymenoptera	Orussoidea
+Hymenoptera	Xiphydrioidea
+Hymenoptera	Siricoidea
+Hymenoptera	Cephoidea
+Hymenoptera	Pamphilioidea
+Hymenoptera	unclassified Hymenoptera
+Hymenoptera	Tenthredinoidea
+Trichoptera	Trichoptera
+Lepidoptera	unclassified Lepidoptera
+Lepidoptera	Heterobathmiina
+Lepidoptera	Aglossata
+Lepidoptera	Zeugloptera
+Siphonaptera	Siphonaptera
+Mecoptera	Mecoptera
+Strepsiptera	Strepsiptera
+Diptera	unclassified Diptera
+Diptera	Xylophagomorpha
+Diptera	Tabanomorpha
+Diptera	Stratiomyomorpha
+Diptera	Tipulomorpha
+Diptera	Ptychopteromorpha
+Diptera	Psychodomorpha
+Diptera	Blephariceromorpha
+Diptera	Axymyiomorpha
+
